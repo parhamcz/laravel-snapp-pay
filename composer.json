@@ -1,5 +1,5 @@
 {
-    "name": "parhamcz/snapp-pay",
+    "name": "parhamcz/laravel-snapp-pay",
     "description": "Installment Payment Gateway, SnappPay (Laravel 8 compatible fork)",
     "keywords": [
         "snapp-pay",
@@ -7,7 +7,7 @@
         "payment",
         "gateway"
     ],
-    "homepage": "https://github.com/parhamcz/snapp-pay",
+    "homepage": "https://github.com/parhamcz/laravel-snapp-pay",
     "license": "MIT",
     "authors": [
         {
