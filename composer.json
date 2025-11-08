@@ -1,5 +1,5 @@
 {
-    "name": "yourname/snapp-pay",
+    "name": "parhamcz/snapp-pay",
     "description": "Installment Payment Gateway, SnappPay (Laravel 8 compatible fork)",
     "keywords": [
         "snapp-pay",
